@@ -3,7 +3,7 @@
 <p>
 Este projeto apresenta o desenvolvimento de um sistema completo para gerenciamento de um centro de 
 adestramento canino chamado <strong>Mente Canina</strong>.  
-Todo o banco de dados foi criado utilizando <strong>SQLite</strong>, escolhido por sua leveza, portabilidade e facilidade de uso 
+Todo o banco de dados foi criado utilizando <strong>SQLiteStudio</strong>, escolhido por sua leveza, portabilidade e facilidade de uso 
 em aplicações locais ou embarcadas.
 </p>
 
